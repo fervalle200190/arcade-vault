@@ -18,6 +18,9 @@ npm run lint    # eslint (flat config, no "next lint")
 npx tsc --noEmit  # typecheck; tsconfig is noEmit-only
 ```
 
+## Skills
+usa siempre /frontend-design para hacer interfaces de usuario
+
 No test runner is configured yet. If you add one, document how to run a single test here.
 
 ## Stack notes that differ from older Next.js
